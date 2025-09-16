@@ -5,8 +5,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Kkoma',
+  description: 'Kkoma (Korean: 꼬마, "little one") is a desktop companion inspired by the tradition of Ukagaka, reimagined for the modern workspace.',
   generator: 'v0.app',
 }
 
