@@ -10,12 +10,12 @@ export default function KkomaLandingPage() {
           {/* App Icon */}
           <div className="flex justify-center">
             <div className="w-32 h-32 rounded-3xl overflow-hidden">
-              <img src="/images/kkoma-logo.png" alt="Kkoma App Logo" className="w-full h-full object-cover" />
+              <img src="images/kkoma-logo.png" alt="Kkoma App Logo" className="w-full h-full object-cover" />
             </div>
           </div>
 
           <div className="flex justify-center">
-            <img src="/images/kkoma-text-logo.png" alt="Kkoma Logo" className="h-16 object-contain" />
+            <img src="images/kkoma-text-logo.png" alt="Kkoma Logo" className="h-16 object-contain" />
           </div>
 
           {/* Download Buttons */}
@@ -147,17 +147,17 @@ export default function KkomaLandingPage() {
       </div>
 
       <div className="fixed bottom-4 left-4 z-[60]">
-        <img src="/images/kkoma-ghost.png" alt="Kkoma Ghost" className="h-16 object-contain" />
+        <img src="images/kkoma-ghost.png" alt="Kkoma Ghost" className="h-16 object-contain" />
       </div>
 
       <div className="fixed bottom-8 right-4 z-50">
-        <img src="/images/yuja-character.png" alt="Yuja Character" className="h-32 object-contain" />
+        <img src="images/yuja-character.png" alt="Yuja Character" className="h-32 object-contain" />
       </div>
 
       <div className="fixed bottom-0 left-0 right-0 bg-black h-8 flex items-center px-4 z-50">
         <div className="flex-1"></div>
         <div className="flex items-center gap-2 mr-4">
-          <img src="/images/kkoma-logo-white.png" alt="Kkoma" className="h-5 object-contain" />
+          <img src="images/kkoma-logo-white.png" alt="Kkoma" className="h-5 object-contain" />
         </div>
       </div>
     </div>
