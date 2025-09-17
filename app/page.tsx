@@ -39,7 +39,7 @@ export default function KkomaLandingPage() {
             <div className="flex items-center gap-2">
               <span className="text-red-500 text-xs md:text-sm font-medium">pre-release (v1.0.1)</span>
               <a
-                href="https://github.com/maycat/kkoma-ai"
+                href="https://github.com/maycat/kkoma-ai/releases"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-800 transition-colors"
