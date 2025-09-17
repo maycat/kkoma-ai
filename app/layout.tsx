@@ -9,7 +9,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Kkoma",
-  description: "Kkoma (Korean: 꼬마, "little one") is a desktop companion inspired by the tradition of Ukagaka.",
+  description: "Kkoma (Korean: 꼬마, 'little one') is a desktop companion inspired by the tradition of Ukagaka.",
   generator: "v0.app",
 }
 
