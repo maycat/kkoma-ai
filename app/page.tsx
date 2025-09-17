@@ -20,18 +20,24 @@ export default function KkomaLandingPage() {
 
           {/* Download Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6 md:pt-8">
-            <Button
-              size="lg"
-              className="bg-gray-800 hover:bg-gray-900 text-white px-6 md:px-8 py-3 text-sm md:text-base font-bold rounded-lg transition-colors duration-200 w-full sm:w-auto sm:min-w-[200px]"
+            <a
+              href="https://github.com/maycat/kkoma-ai/releases/download/v1.0.1/Kkoma_1.0.1_aarch64.dmg"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <Apple className="w-4 h-4 md:w-5 md:h-5 mr-2" />
-              Download for Mac
-            </Button>
+              <Button
+                size="lg"
+                className="bg-gray-800 hover:bg-gray-900 text-white px-6 md:px-8 py-3 text-sm md:text-base font-bold rounded-lg transition-colors duration-200 w-full sm:w-auto sm:min-w-[200px]"
+              >
+                <Apple className="w-4 h-4 md:w-5 md:h-5 mr-2" />
+                Download for Mac
+              </Button>
+            </a>
           </div>
 
           <div className="flex justify-center pt-1">
             <div className="flex items-center gap-2">
-              <span className="text-red-500 text-xs md:text-sm font-medium">pre-release (v1.0.1)</span>
+              <span className="text-red-500 text-xs md:text-sm font-medium">pre-release</span>
               <a
                 href="https://github.com/maycat/kkoma-ai"
                 target="_blank"
