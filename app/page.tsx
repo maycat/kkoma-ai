@@ -37,7 +37,7 @@ export default function KkomaLandingPage() {
 
           <div className="flex justify-center pt-1">
             <div className="flex items-center gap-2">
-              <span className="text-red-500 text-xs md:text-sm font-medium">pre-release</span>
+              <span className="text-red-500 text-xs md:text-sm font-medium">pre-release (v1.0.1)</span>
               <a
                 href="https://github.com/maycat/kkoma-ai"
                 target="_blank"
