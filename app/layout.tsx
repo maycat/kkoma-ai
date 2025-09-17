@@ -8,8 +8,8 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "Kkoma",
+  description: "Kkoma (Korean: 꼬마, "little one") is a desktop companion inspired by the tradition of Ukagaka.",
   generator: "v0.app",
 }
 
