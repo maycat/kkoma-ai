@@ -21,7 +21,7 @@ export default function KkomaLandingPage() {
           {/* Download Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6 md:pt-8">
             <a
-              href="https://github.com/maycat/kkoma-ai/releases/download/v1.0.2/Kkoma_1.0.2_aarch64.dmg"
+              href="https://github.com/maycat/kkoma-ai/releases/tag/v1.0.2"
               target="_blank"
               rel="noopener noreferrer"
             >
