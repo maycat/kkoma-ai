@@ -21,7 +21,7 @@ export default function KkomaLandingPage() {
           {/* Download Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6 md:pt-8">
             <a
-              href="https://github.com/maycat/kkoma-ai/releases/tag/v1.0.3"
+              href="https://github.com/maycat/kkoma-ai/releases/tag/v1.0.4"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -37,7 +37,7 @@ export default function KkomaLandingPage() {
 
           <div className="flex justify-center pt-1">
             <div className="flex items-center gap-2">
-              <span className="text-red-500 text-xs md:text-sm font-medium">pre-release (v1.0.3)</span>
+              <span className="text-red-500 text-xs md:text-sm font-medium">pre-release (v1.0.4)</span>
               <a
                 href="https://github.com/maycat/kkoma-ai/releases"
                 target="_blank"
@@ -91,7 +91,7 @@ export default function KkomaLandingPage() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 rounded-full mt-2 flex-shrink-0" style={{ backgroundColor: "#000000" }}></div>
                 <span className="text-sm md:text-base" style={{ color: "#000000" }}>
-                  <strong style={{ color: "#000000" }}>Agent integration</strong> with tools: Claude Code
+                  <strong style={{ color: "#000000" }}>Agent integration</strong> with tools: Claude Code, Codex Cli
                 </span>
               </div>
             </div>
@@ -134,7 +134,7 @@ export default function KkomaLandingPage() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 rounded-full mt-2 flex-shrink-0" style={{ backgroundColor: "#000000" }}></div>
                 <span className="text-sm md:text-base" style={{ color: "#000000" }}>
-                  I might give <code className="bg-gray-200 px-1 rounded text-xs md:text-sm">jules</code> a spin later
+                  I might give <code className="bg-gray-200 px-1 rounded text-xs md:text-sm">Codex and Jules</code> a spin later
                   on too, just to see what it's like 🙂
                 </span>
               </div>
